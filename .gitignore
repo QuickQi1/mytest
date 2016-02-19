@@ -22,7 +22,11 @@
 *.a
 *.lib
 
+
 # Executables
 *.exe
 *.out
 *.app
+
+# additional files
+*.hpp
